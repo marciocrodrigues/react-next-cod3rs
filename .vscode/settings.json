@@ -1,0 +1,11 @@
+{
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+    "prettier.endOfLine": "lf",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500"
+}
